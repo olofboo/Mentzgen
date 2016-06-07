@@ -1,0 +1,59 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @character.name %>
+</p>
+
+<p>
+  <strong>Alignment:</strong>
+  <%= @character.alignment %>
+</p>
+
+<p>
+  <strong>Str:</strong>
+  <%= @character.str %>
+</p>
+
+<p>
+  <strong>Int:</strong>
+  <%= @character.int %>
+</p>
+
+<p>
+  <strong>Wis:</strong>
+  <%= @character.wis %>
+</p>
+
+<p>
+  <strong>Con:</strong>
+  <%= @character.con %>
+</p>
+
+<p>
+  <strong>Dex:</strong>
+  <%= @character.dex %>
+</p>
+
+<p>
+  <strong>Cha:</strong>
+  <%= @character.cha %>
+</p>
+
+<p>
+  <strong>Hp:</strong>
+  <%= @character.hp %>
+</p>
+
+<p>
+  <strong>Level:</strong>
+  <%= @character.level %>
+</p>
+
+<p>
+  <strong>Xp:</strong>
+  <%= @character.xp %>
+</p>
+
+<%= link_to 'Edit', edit_character_path(@character) %> |
+<%= link_to 'Back', characters_path %>
