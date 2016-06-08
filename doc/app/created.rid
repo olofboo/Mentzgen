@@ -1,0 +1,7 @@
+Wed, 08 Jun 2016 15:24:08 +0300
+README.rdoc	Tue, 24 May 2016 11:16:26 +0300
+app/controllers/application_controller.rb	Tue, 24 May 2016 11:16:26 +0300
+app/controllers/characters_controller.rb	Tue, 07 Jun 2016 17:01:29 +0300
+app/helpers/application_helper.rb	Tue, 24 May 2016 11:16:26 +0300
+app/helpers/characters_helper.rb	Mon, 06 Jun 2016 11:00:49 +0300
+app/models/character.rb	Wed, 08 Jun 2016 15:23:56 +0300
